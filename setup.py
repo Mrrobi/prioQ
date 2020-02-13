@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="prioQbyrobi", # Replace with your own username
-    version="2.0.1",
+    version="2.0.2",
     author="Md Robiuddin",
     author_email="mrrobi040@gmail.com",
     description="A package for priority queue to make A* Search",
