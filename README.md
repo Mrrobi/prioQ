@@ -9,7 +9,7 @@ Anyone of you can use this package to handle the priority Queue part of your A* 
 pip install prioQbyrobi
 ```
 
-### Then you need to import the A* Search specific queue from the 
+### Then you need to import the A* Search specific queue from the library
 ```python
 from prioQbyrobi import astar as Q
 
