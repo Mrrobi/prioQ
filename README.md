@@ -1,6 +1,6 @@
 # Priority Queue For A* Search
 Anyone of you can use this package to handle the priority Queue part of your A* Search code.
-[Github Open Source](https://github.com/Mrrobi/prioQ)
+[PyPi Link](https://pypi.org/project/prioQbyrobi/2.0.2/)
 
 ```python
 #using process
