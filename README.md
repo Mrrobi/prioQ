@@ -2,14 +2,19 @@
 Anyone of you can use this package to handle the priority Queue part of your A* Search code.
 [PyPi Link](https://pypi.org/project/prioQbyrobi/2.0.2/)
 
-```python
-#using process
+## using process
+### First need to add the library
 
+```python
+pip install prioQbyrobi
+```
+
+### Then you need to import the A* Search specific queue from the 
+```python
 from prioQbyrobi import astar as Q
 
-minQ = Q.PriorityQueue()
+minQ = Q.PriorityQueue() #Creating an object of PriorityQueue class of the library
 minQ.insert(yournodeObj) #inserting your node object into the Queue
-
 minQ.delete() # popping your node object from the priority queue
 
 ```
